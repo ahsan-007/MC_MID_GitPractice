@@ -4,3 +4,4 @@ It was time of construction, it was time of destruction.
 It was autmun of success, it was autumn of failure.
 It was cenury of wiseness, it was cenury of fulishness.
 It was days of peace, it was days of war.
+This is a line where merge conflict will occur.
